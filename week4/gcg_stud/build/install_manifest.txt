@@ -1,0 +1,2 @@
+/Users/gaia/DTUhomework/GenerativeMethods/gcg_stud/build/../bin/implicits
+/Users/gaia/DTUhomework/GenerativeMethods/gcg_stud/build/../bin/pool_scene
